@@ -64,6 +64,25 @@ Aplicativo mobile desenvolvido durante meus estudos de React Native. O projeto t
 
 </div>
 
+
+<div align="center">
+
+## Minha jornada de contribuições
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/FernandaSelva/FernandaSelva/output/github-snake-dark.svg" />
+
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/FernandaSelva/FernandaSelva/output/github-snake.svg" />
+
+  <img alt="Animação das contribuições"
+    src="https://raw.githubusercontent.com/FernandaSelva/FernandaSelva/output/github-snake.svg" />
+</picture>
+
+</div>
+
+
 ## Vamos nos conectar?
 
 <div align="center">
