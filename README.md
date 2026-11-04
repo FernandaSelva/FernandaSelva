@@ -56,9 +56,9 @@ Aplicativo mobile desenvolvido durante meus estudos de React Native. O projeto t
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=FernandaSelva&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=FernandaSelva&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandaSelva&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" alt="Linguagens mais utilizadas" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=FernandaSelva&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" alt="Linguagens mais utilizadas" />
 
 <img src="https://streak-stats.demolab.com?user=FernandaSelva&theme=tokyonight&hide_border=true&locale=pt_BR" alt="GitHub Streak" width="65%" />
 
